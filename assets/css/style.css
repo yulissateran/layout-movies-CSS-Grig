@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-areas: "header header"
+                          "aside  main";
+    grid-template-columns: 110px 1fr;
+    grid-template-rows: 70px auto;
+}
