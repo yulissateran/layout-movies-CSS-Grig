@@ -2,4 +2,15 @@ aside {
     grid-area: aside;
     background-color:  #CD464A;
     height: 100vh;
+  
+}
+
+.icon {
+ font-weight: 900;
+ font-size: 40px;
+}
+
+.sidebar {
+    position: sticky;
+    top: 0;
 }

@@ -1,4 +1,6 @@
 main {
     grid-area: main;
     background-color: #FCFCFC;
+    position: sticky;
+    top: 0;
 }
